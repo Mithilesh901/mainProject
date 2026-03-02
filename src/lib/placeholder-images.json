@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hyderabad-map",
+      "description": "City map of Hyderabad, India showing major districts like Banjara Hills and Jubilee Hills",
+      "imageUrl": "https://images.unsplash.com/photo-1716800365994-3ff475485b0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoeWRlcmFiYWQlMjBtYXB8ZW58MHx8fHwxNzcxOTI3ODg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hyderabad map"
+    }
+  ]
+}
